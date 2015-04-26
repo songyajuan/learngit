@@ -4,6 +4,6 @@ git is has mutable index called stage
 git track changs of files
 modify
 creating a new branch is quick and simple
-
+no ff merge
 
 
